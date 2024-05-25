@@ -372,3 +372,164 @@ Dans le fichier précédent, on trouve le lien de destination. Sur le site de la
 *flag: v1.4.2*
 
 # Start with a K
+## Meilleur Profil
+```
+Kalliopée semble avoir eu une autre carrière.
+
+Mais avec quel modèle d’objectif (marque / focale / ouverture) a été utilisé pour son portrait ?
+
+Format de flag : Tokina 105mm f2.5
+```
+
+Un petit raccourci pour ce challenge: On connait le photographe utilisé par OscarZulu: Gary Durebourg. 
+Et coup de bol, il a bien des photos de Kalliopée. On trouve le flag sur son behance:
+
+*flag : Samyang 85mm f1.4*
+
+## Fish and Chips
+```
+Toute l'équipe semble se connaitre, mais où Henri a rencontré Raoul et Kalliopée en même temps pour la première fois ?
+
+Format de flag : Ville – Lieu de Rencontre
+```
+
+Sur la page de la clinique, on voit qu'Henri est fan de plongé. On trouve son profil sur https://divelogs.org/log/henri.lovebruk.
+
+Les 3 personnes ont une plongée en commun:
+
+*flag: Larnaca - Elpida Wreck*
+
+# Activité cachée
+## Snake Oil
+```
+Vous avez identifié et relié les différents protagonistes, vous avez compris que les dossiers médicaux voyagent... mais vers où ?
+
+Peut-être faudrait-il s’interesser à d’autres pistes ?
+
+Quel est le pseudonyme de la personne à contacter pour essayer d’en savoir plus sur cette activité étrange du Dr Reidid qui a disparu de sa fiche?
+
+Format de flag : Blanche Neige
+```
+
+On revient au challenge [Expérience cachée](#expérience-cachée).
+
+*flag: Johnny LaNeige*
+
+## L’oignon fait pleurer
+```
+Vous interrogez ce témoin avec succès, quelle adresse vous donne t-il ?
+
+Format de flag : http://urlcomplete
+```
+
+On revient au challenge [Expérience cachée](#expérience-cachée).
+
+*flag: http://2a2j6lmcbhngjad2mhi7kig6b2bai7rmihctkrpvpnksmcwm6edpgryd.onion*
+
+## Only Sysadmin Can Judge Me
+```
+Les sites onion sont difficiles à tracer… mais vous pourrez sans doute trouver une piste.
+
+Quel est le pseudo de la personne en charge de la boutique en ligne ?
+
+Format de flag : Frank The Bold Rhino
+```
+
+Sur le site, on ne trouve rien d'intéressant. Le seul message laissé par le sysadmin comporte des hashtag, on essaie donc de les retrouver. Et c'est sur mastodon qu'on trouve son compte: https://mastodon.social/@nonowebmonkey
+
+*flag: Nono The Web Monkey*
+
+# Attila
+## Un Boulot de Rêve
+```
+Il serait intéressant d’en savoir plus sur l'expérience de Raoul. Quel est le numéro de téléphone de l’établissement où il a fait son stage ?
+
+Format flag : +451 12 22 31 11
+```
+
+Pour retrouver la pharmacie, on s'aide de la photo disponible sur le drive de Raoul. Mais nous n'avons pas plus d'informations de ce côté-ci. On complète donc [Platonique](#platonique) en premier.
+
+Avec les courses strava, le périmètre de recherche de la pharmacie est réduit. En superposant les courses, on obtient:
+
+![superpos](./images/superpos.png)
+
+Et regardant les lieux où les 3 courses passent, on retrouve la pharmacie :
+
+![pharma](./images/pharma.png)
+
+Enfin, on retrouve le numéro sur internet:
+
+*flag: +357 22 44 17 80*
+
+## Platonique
+```
+Le Docteur Reidid a dû rencontrer ses futurs associés il y a un moment déjà. Quand a-t-il vu pour la première fois la responsable administrative ?
+
+Format de flag : 16/06/2024
+```
+
+Tout d'abord, on utilise une information présente dans le calendrier de Raoul: Il parle du site https://diaspora.psyco[.]fr. On trouve son profil et un message :
+
+![poeme](./images/poeme.png)
+
+Puis, pour retrouver Gizem, 2 options s'ouvrent à nous:
+* Utiliser le format d'adresse mail de clinique que l'on voit sur le cv de Raoul: gizem.ihanet@yemanjaclinic.eu. Avec Holehe, on trouve un compte Strava
+* Sinon, il est mentionné sur la page de la clinique que Gizem aime la course à pied.
+
+Sur son strava (https://www.strava.com/athletes/135688719), on y voit 3 courses. La première nous donne:
+
+*flag: 13/04/2022*
+
+## Chill Time
+```
+Il semble que le docteur et la responsable administrative se connaissent donc bien. Où se retrouvaient-ils pour discuter du projet de la clinique tard dans la nuit ?
+
+Format de flag : Mc Donald's
+```
+
+On cherche les Mikel Coffee dans Nicosie. Un seul correspond aux informations: il est à côté d'un bar à chicha, et les horaires des deux endroits correspondent.
+https://maps.app.goo.gl/PsQWzES4Fb5UPBiJA
+
+*flag: D'avilla Cafe*
+
+# SEO
+## La nouvelle donne
+```
+Quel est le nom de l’entreprise derrière la boutique sur le Dark Web ?
+
+Format de Flag : Castorama
+```
+
+On utilise les informations présentes sur le mastodon du Sysadmin pour trouver le lien suivant: https://semestriel.framapad.org/p/r.b560c18bb6f25189569e22e77b501dc5
+
+*flag: Arthikana*
+
+## Rendez vous
+```
+Quand et où va t-il se rendre pour tenter de récupérer son argent.
+
+Format de flag : 24 mai à Nantes
+```
+
+L'info est au même endroit que le challenge précédent:
+
+*flag: 11 juin à Limoges*
+
+## Point Final(e)
+```
+Vous avez identifié tous les suspects, et pour certains vous avez identifié leur localisation.
+
+Mais vous avez identifié un témoin potentiel qui en sait beaucoup, et vous connaissez maintenant sa destination. Il devrait rencontrer un de nos protagonistes.
+
+Afin de l'interroger, nous n'enverrons que nos meilleurs éléments !
+
+Il est temps pour vous de vous reposer, et d'assumer les erreurs que vous aurez fait pendant votre parcours...
+
+Chaque mauvaise réponse pourra vous coûter la victoire, aurez vous été les plus prudents ?
+
+Rendez vous très bientôt pour les résultats !
+
+Entrez mais j'étais sûr de mon flag ci-dessous pour terminer votre aventure !
+```
+
+*flag: mais j'étais sûr de mon flag*
