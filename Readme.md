@@ -1,6 +1,10 @@
 # Medileak CTF
 Write Up de la team dodo pizza
 
+# Résumé des qualifications
+
+[mindmap]: ./images/mindmap.png
+
 # La victime
 ## Il était une fois…
 On lit l'énoncé et:
