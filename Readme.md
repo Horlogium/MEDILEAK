@@ -4,6 +4,7 @@ Write Up de la team dodo pizza
 # Résumé des qualifications
 
 [mindmap]: ./images/mindmap.png
+![mindmap]
 
 # La victime
 ## Il était une fois…
